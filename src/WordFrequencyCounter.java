@@ -41,7 +41,7 @@ import java.util.Scanner;
 
          //now let's print the frequencies
 
-         System.out.println("word frequences: ");
+         System.out.println("Word Frequences: ");
 
          System.out.println(wordfreqmap.entrySet());
 
