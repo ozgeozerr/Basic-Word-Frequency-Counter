@@ -45,6 +45,8 @@ import java.util.Scanner;
 
          System.out.println(wordfreqmap.entrySet());
 
+         System.out.println("I used HashMap");
+
 
 
 
